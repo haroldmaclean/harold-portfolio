@@ -6,14 +6,22 @@ import ProjectCard from "@/components/ProjectCard";
 export default function ProjectsPage() {
   const projects = [
     {
-      title: "Nutrify App",
-      description: "A nutrition tracking web app using MERN stack.",
-      link: "https://github.com/yourusername/nutrify",
+      title: "Next E-Commerce Store",
+      description:
+        "A modern e-commerce frontend built using Next.js and Tailwind CSS.",
+      link: "https://github.com/haroldmaclean/next-ecommerce-store",
     },
     {
-      title: "Travel Website",
-      description: "Frontend travel landing page using HTML/CSS.",
-      link: "https://github.com/yourusername/travel-site",
+      title: "Birthday Invitation Web App",
+      description:
+        "A creative RSVP invitation app built with React and styled-components.",
+      link: "https://github.com/haroldmaclean/birthday-invitation",
+    },
+    {
+      title: "My Affiliate Site",
+      description:
+        "A live affiliate website integrated with Amazon links for real product marketing.",
+      link: "https://github.com/haroldmaclean/my-affiliate-site",
     },
   ];
 
