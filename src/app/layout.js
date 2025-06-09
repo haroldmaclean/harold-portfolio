@@ -21,12 +21,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
-      <head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-          rel="stylesheet"
-        />
-      </head>
+      <head></head>
       <body className="bg-white text-gray-800 font-sans">
         <Toaster position="top-right" />
         <div className="min-h-screen flex flex-col items-center">
