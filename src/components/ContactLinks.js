@@ -40,7 +40,7 @@ const ContactLinks = () => {
       <p>
         📁{" "}
         <a
-          href="https://drive.google.com/file/d/1Eir7qeWlPUEHUkb9JfbBRI_zl5OvLYS6/view?usp=drive_link"
+          href="https://docs.google.com/document/d/1QYxzUZrDPZrzEl3oE3gC3uGOBDExqziLGbCQBsm33vk/edit?usp=sharing"
           className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
           target="_blank"
           rel="noopener noreferrer"
