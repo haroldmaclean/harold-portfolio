@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const ContactLinks = () => {
   return (
@@ -46,6 +47,18 @@ const ContactLinks = () => {
         >
           Download Resume
         </a>
+      </p>
+      <p>
+        <Image
+          src="/qr/portfolio-qr.png"
+          alt="Scan QR to view portfolio"
+          width={120}
+          height={120}
+          className="mx-auto"
+        />
+        <span className="text-sm text-gray-600 mt-1 block">
+          Scan to view my portfolio
+        </span>
       </p>
     </div>
   );
