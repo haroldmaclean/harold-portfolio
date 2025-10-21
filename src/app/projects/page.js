@@ -18,7 +18,7 @@ export default function ProjectsPage() {
     {
       title: 'Tutor Template',
       description: 'React template for tutor booking and scheduling.',
-      link: 'https://tutor-template-harold.vercel.app/',
+      link: 'https://nutrify-nu.vercel.app/',
     },
     {
       title: 'Restaurant Website',
