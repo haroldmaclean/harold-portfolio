@@ -5,7 +5,7 @@ export default function AboutSection() {
   const professionalBio = (
     <>
       <p className='mt-4 text-lg text-gray-700 leading-relaxed'>
-        Hello! I'm Harold Mzumara, a **Junior Full-Stack Web Developer**
+        Hello! I&apos;m Harold Mzumara, a **Junior Full-Stack Web Developer**
         specializing in building robust, data-driven applications. My passion
         lies at the intersection of powerful backends and intuitive user
         interfaces.
@@ -20,7 +20,7 @@ export default function AboutSection() {
       <p className='mt-4 text-lg text-gray-700 leading-relaxed'>
         I am currently seeking a role where I can apply my skills in a
         collaborative team environment and contribute to innovative product
-        development. Let's build something great!
+        development. Let&apos;s build something great!
       </p>
     </>
   )

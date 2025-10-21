@@ -9,7 +9,7 @@ export default function ContactPage() {
   return (
     <main className='py-10 px-6 max-w-6xl mx-auto'>
       <h1 className='text-4xl md:text-5xl font-extrabold text-gray-900 text-center mb-12'>
-        Let's Connect and Build Together
+        Let&apos;s Connect and Build Together
       </h1>
 
       {/* REVISED LAYOUT: Using max-w-5xl to constrain the container, and grid for spacing */}

@@ -32,7 +32,7 @@ export default function HomePage() {
         {/* 4. Short, Engaging Bio */}
         <p className='mt-6 text-xl text-gray-600 max-w-prose'>
           I transform innovative ideas into efficient, scalable applications,
-          specializing in the MERN stack. Let's create impactful digital
+          specializing in the MERN stack. Let&apos;s create impactful digital
           experiences.
         </p>
 
