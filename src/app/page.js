@@ -53,11 +53,6 @@ export default function HomePage() {
             Download Resume
           </Link>
         </div>
-
-        {/* 6. Footer */}
-        <footer className='mt-12 text-gray-500 text-sm'>
-          © {new Date().getFullYear()} Harold Mzumara. All rights reserved.
-        </footer>
       </div>
     </main>
   )
