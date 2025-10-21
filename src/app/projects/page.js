@@ -16,8 +16,9 @@ export default function ProjectsPage() {
       link: 'https://haroldcuts.vercel.app/',
     },
     {
-      title: 'Tutor Template',
-      description: 'React template for tutor booking and scheduling.',
+      title: 'Nutrify - Nutrition Planner', // <-- NEW, CORRECT TITLE
+      description:
+        'A full-stack MERN application for personalized meal planning and health tracking.',
       link: 'https://nutrify-nu.vercel.app/',
     },
     {
