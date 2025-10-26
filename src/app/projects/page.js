@@ -16,7 +16,7 @@ export default function ProjectsPage() {
       link: 'https://haroldcuts.vercel.app/',
     },
     {
-      title: 'Nutrify - Nutrition Planner', // <-- NEW, CORRECT TITLE
+      title: 'Nutrify - Nutrition Planner', 
       description:
         'A full-stack MERN application for personalized meal planning and health tracking.',
       link: 'https://nutrify-nu.vercel.app/',
@@ -29,7 +29,7 @@ export default function ProjectsPage() {
     {
       title: 'Next.js E-Commerce Store',
       description: 'A full-stack e-commerce store built with Next.js.',
-      link: 'https://next-ecommerce-store-qfqo.vercel.app/',
+      link: 'https://next-ecommerce-store-jet.vercel.app/',
     },
   ]
 
